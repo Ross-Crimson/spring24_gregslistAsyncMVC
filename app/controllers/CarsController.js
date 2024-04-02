@@ -9,7 +9,7 @@ import { setHTML } from "../utils/Writer.js";
 
 export class CarsController {
   constructor() {
-    console.log('ready to sell 🚗');
+    //console.log('ready to sell 🚗');
     this.getCars()
     AppState.on('cars', this.drawCars)
     AppState.on('account', this.drawCars) // this should re-draw the cars, drawing and delete buttons necessary

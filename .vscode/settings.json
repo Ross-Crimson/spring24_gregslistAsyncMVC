@@ -3,7 +3,7 @@
   "javascript.preferences.importModuleSpecifierEnding": "js",
   "workbench.colorCustomizations": {
     "commandCenter.border": "#15202b99",
-    "sash.hoverBorder": "#7ea32f",
+    "sash.hoverBorder": "#9bc73e",
     "statusBar.background": "#7ea32f",
     "statusBar.foreground": "#15202b",
     "statusBarItem.hoverBackground": "#5f7b24",
@@ -13,11 +13,12 @@
     "titleBar.activeForeground": "#15202b",
     "titleBar.inactiveBackground": "#7ea32f99",
     "titleBar.inactiveForeground": "#15202b99",
-    "editorGroup.border": "#7ea32f",
-    "sideBar.border": "#7ea32f",
-    "statusBar.debuggingBackground": "#542fa3",
-    "statusBar.debuggingForeground": "#e7e7e7",
-    "tab.activeBorder": "#7ea32f"
+    "activityBar.activeBackground": "#9bc73e",
+    "activityBar.background": "#9bc73e",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#3286ad",
+    "activityBarBadge.foreground": "#e7e7e7"
   },
   "peacock.color": "#7ea32f",
 }
